@@ -13,10 +13,9 @@
 📖 **Éducation et Découverte**  
 "StudyUp" est votre compagnon idéal pour l'apprentissage et la découverte. Que vous recherchiez des classiques littéraires, des ouvrages académiques ou les derniers best-sellers, notre application vous offre un accès instantané à une bibliothèque numérique diversifiée.
 
-💼 **Développement chez Smart Touch Group**  
-Ce projet a été développé alors que j'étais membre de l'équipe Smart Touch Group, témoignant de notre engagement envers l'innovation dans le domaine de l'éducation numérique.
+💼 **Développement chez [Smart Touch Group](https://www.smt-group.net/)**  
+Ce projet a été développé alors que j'étais membre de l'équipe [Smart Touch Group](https://www.smt-group.net/), témoignant de notre engagement envers l'innovation dans le domaine de l'éducation numérique.
 
 🎁 **Démo**  
 Pour explorer la richesse de la bibliothèque numérique de "StudyUp" et découvrir l'expérience de lecture exceptionnelle qu'elle offre, découvrez une démonstration en direct [ici](lien-vers-la-démo-en-ligne).
 
-N'hésitez pas à remplacer "lien-vers-la-vidéo-de-présentation.mov" par le lien réel vers la vidéo de présentation de votre projet, "lien-vers-la-démo-en-ligne" par le lien vers votre démonstration en direct, et à ajouter toute autre information pertinente.
