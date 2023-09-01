@@ -2,7 +2,7 @@
 ![Aperçu](lien-vers-la-vidéo-de-présentation.mov)
 
 📁 **Description**  
-"StudyUp" est une application mobile révolutionnaire que j'ai développée lors de mon emploi chez Smart Touch Group. Elle vous permet d'accéder à une bibliothèque numérique riche en livres parmi les plus populaires et les plus appréciés. Avec StudyUp, l'apprentissage et la découverte sont à portée de main.
+"StudyUp" est une application mobile révolutionnaire que j'ai développée lors de mon emploi chez [Smart Touch Group](https://www.smt-group.net/). Elle vous permet d'accéder à une bibliothèque numérique riche en livres parmi les plus populaires et les plus appréciés. Avec StudyUp, l'apprentissage et la découverte sont à portée de main.
 
 📚 **Fonctionnalités Clés**  
 - Bibliothèque Numérique : Accédez à une vaste collection de livres.
